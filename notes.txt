@@ -1,0 +1,9 @@
+1. npm init
+2. express
+3. bcryptjs
+4. jsonwebtoken
+5. config
+6. express-validator
+7. mongoose
+
+8. npm i -D nodemon concurrently
